@@ -1,0 +1,10 @@
+C:\Users\user1\Desktop\שאלות מראינות עבודה\ExMath\ExMath\bin\Debug\ExMath.exe.config
+C:\Users\user1\Desktop\שאלות מראינות עבודה\ExMath\ExMath\bin\Debug\ExMath.exe
+C:\Users\user1\Desktop\שאלות מראינות עבודה\ExMath\ExMath\bin\Debug\ExMath.pdb
+C:\Users\user1\Desktop\שאלות מראינות עבודה\ExMath\ExMath\obj\Debug\ExMath.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\שאלות מראינות עבודה\ExMath\ExMath\obj\Debug\ExMath.Form1.resources
+C:\Users\user1\Desktop\שאלות מראינות עבודה\ExMath\ExMath\obj\Debug\ExMath.Properties.Resources.resources
+C:\Users\user1\Desktop\שאלות מראינות עבודה\ExMath\ExMath\obj\Debug\ExMath.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\שאלות מראינות עבודה\ExMath\ExMath\obj\Debug\ExMath.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\שאלות מראינות עבודה\ExMath\ExMath\obj\Debug\ExMath.exe
+C:\Users\user1\Desktop\שאלות מראינות עבודה\ExMath\ExMath\obj\Debug\ExMath.pdb
